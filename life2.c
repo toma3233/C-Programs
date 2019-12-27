@@ -108,7 +108,7 @@ int main(int argc, char ** argv){
         }
     }
 
-        /*If board passes error checking, uses helper function to print out the entire board. */
+        /*If board passes error checking, uses helper function to print out the  board. */
     prboard(r-1, row_length,board);
     
 }
